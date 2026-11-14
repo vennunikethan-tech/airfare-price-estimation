@@ -5,3 +5,4 @@ __pycache__/
 venv/
 .env
 .ipynb_checkpoints/
+airfare_model_full_75.pkl
